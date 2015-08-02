@@ -5,4 +5,4 @@
   composer config --global github-oauth.github.com <TOKEN>
   
   composer create-project --prefer-dist yiisoft/yii2-app-advanced nombre_app
-  
+  entramos  a la carpeta nombre_app y le damos php init para inicializar la aplicaciones
